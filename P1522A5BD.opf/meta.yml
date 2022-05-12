@@ -13,3 +13,8 @@ source_metadata:
       parent: Inventories
 created_at: '2022-03-01T01:57:31.392562'
 last_modified_at: '2022-03-01T01:57:31.392565'
+statistics:
+  total_words: 2620
+  total_non_words: 273
+quality:
+  non_words_ratio: 0.1
